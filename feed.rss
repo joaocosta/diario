@@ -2,9 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Diário do João</title><link>http://zonalivre/diario/index.html</link>
 <description>O nome diz tudo</description><language>en</language>
-<lastBuildDate>Mon, 11 Apr 2022 10:33:30 +0100</lastBuildDate>
-<pubDate>Mon, 11 Apr 2022 10:33:30 +0100</pubDate>
+<lastBuildDate>Thu, 28 Apr 2022 10:58:46 +0100</lastBuildDate>
+<pubDate>Thu, 28 Apr 2022 10:58:46 +0100</pubDate>
 <atom:link href="http://zonalivre/diario/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Calendário do jardim
+</title><description><![CDATA[
+
+<p>|  Data    | Planta      |   Comentário   |
+|----------|-------------|----------------|
+|2022-04-09| Daffodil    | Dead head      |
+|2022-04-11| Lady Tulip  | Flor           |
+|2022-04-28| Fuchsia     | Flor           |</p>
+
+<p>Tags: <a href='tag_jardim.html'>jardim</a>, <a href='tag_lichfield.html'>lichfield</a></p>
+<!-- text end -->
+]]></description><link>http://zonalivre/diario/calendario-do-jardim.html</link>
+<guid>http://zonalivre/diario/./calendario-do-jardim.html</guid>
+<dc:creator>João Costa</dc:creator>
+<pubDate>Thu, 28 Apr 2022 10:54:40 +0100</pubDate></item>
 <item><title>
 Deadheading daffodils
 </title><description><![CDATA[
