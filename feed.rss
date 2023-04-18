@@ -2,9 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Diário do João</title><link>http://zonalivre/diario/index.html</link>
 <description>O nome diz tudo</description><language>en</language>
-<lastBuildDate>Thu, 28 Apr 2022 10:58:46 +0100</lastBuildDate>
-<pubDate>Thu, 28 Apr 2022 10:58:46 +0100</pubDate>
+<lastBuildDate>Tue, 18 Apr 2023 12:58:54 +0100</lastBuildDate>
+<pubDate>Tue, 18 Apr 2023 12:58:54 +0100</pubDate>
 <atom:link href="http://zonalivre/diario/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Configurar Citrix Workspace App
+</title><description><![CDATA[
+
+<p>Ficheiro ~/.ICAClient/wfclient.ini</p>
+
+<pre><code>-KeyboardLayout = (User Profile)
++KeyboardLayout = British
+</code></pre>
+
+<p>Erro "You have not chosen to trust "USERTrust RSA Certification Authority", the issuer of the server's security certificate."</p>
+
+<p>Ver detalhe em https://spawn.link/posts/2022-12-11<em>-</em>citrix_certs/, mas na essencia:</p>
+
+<pre><code>ln -s /etc/ssl/certs/USERTrust_RSA_Certification_Authority.pem /opt/Citrix/ICAClient/keystore/cacerts/USERTrust_RSA_Certification_Authority.pem
+</code></pre>
+
+<p>Usar teclas como ALT+TAB, WindowsKey, etc na sessao:</p>
+
+<p>Edita ficheiro /opt/Citrix/ICAClient/config/All_Regions.ini</p>
+
+<pre><code>[Virtual Channels\Keyboard]
+TransparentKeyPassthrough=Remote
+</code></pre>
+
+<p>Tags: <a href='tag_citrix.html'>citrix</a>, <a href='tag_linux.html'>linux</a></p>
+<!-- text end -->
+]]></description><link>http://zonalivre/diario/configurar-citrix-workspace-app.html</link>
+<guid>http://zonalivre/diario/./configurar-citrix-workspace-app.html</guid>
+<dc:creator>João Costa</dc:creator>
+<pubDate>Tue, 18 Apr 2023 12:58:50 +0100</pubDate></item>
 <item><title>
 Calendário do jardim
 </title><description><![CDATA[
