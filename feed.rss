@@ -2,9 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Diário do João</title><link>http://zonalivre/diario/index.html</link>
 <description>O nome diz tudo</description><language>en</language>
-<lastBuildDate>Tue, 18 Apr 2023 12:58:54 +0100</lastBuildDate>
-<pubDate>Tue, 18 Apr 2023 12:58:54 +0100</pubDate>
+<lastBuildDate>Mon, 20 Nov 2023 11:06:28 +0000</lastBuildDate>
+<pubDate>Mon, 20 Nov 2023 11:06:28 +0000</pubDate>
 <atom:link href="http://zonalivre/diario/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Continuous heart rate monitors
+</title><description><![CDATA[
+
+<p>Today I am thinking about getting a continuous heart monitor.  I am thinking about something I can use for swimming.  There seem to be two kinds, chest strap and watch based.</p>
+
+<p>But really, before I start spending money, I should just use the Polar chest strap I already have, and see how I can start storing that data somewhere.</p>
+
+<p>Tags: <a href='tag_fitness.html'>fitness</a>, <a href='tag_heart-rate.html'>heart-rate</a></p>
+<!-- text end -->
+]]></description><link>http://zonalivre/diario/continuous-heart-rate-monitors.html</link>
+<guid>http://zonalivre/diario/./continuous-heart-rate-monitors.html</guid>
+<dc:creator>João Costa</dc:creator>
+<pubDate>Mon, 06 Nov 2023 11:17:12 +0000</pubDate></item>
 <item><title>
 Configurar Citrix Workspace App
 </title><description><![CDATA[
