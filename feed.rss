@@ -2,9 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Diário do João</title><link>http://zonalivre/diario/index.html</link>
 <description>O nome diz tudo</description><language>en</language>
-<lastBuildDate>Fri, 24 Nov 2023 13:51:48 +0000</lastBuildDate>
-<pubDate>Fri, 24 Nov 2023 13:51:48 +0000</pubDate>
+<lastBuildDate>Fri, 24 Nov 2023 22:57:24 +0000</lastBuildDate>
+<pubDate>Fri, 24 Nov 2023 22:57:24 +0000</pubDate>
 <atom:link href="http://zonalivre/diario/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+IMI Novembro 2023
+</title><description><![CDATA[
+
+<p>Quase que me esqueçia de pagar o IMI.  Lembrei-me agora por ter recebido o email com a newsletter da autoridade tributária.</p>
+
+<p>O que do ponto de vista da contabilidade me recorda que eu deveria começar a manter uma lista de despesas a abater.  Esta é uma delas, e a melhor altura para começar é mesmo agora (apesar de já ser hora de desligar o computador).</p>
+
+<p>Está feito, criei uma folha de cálculo no google docs com o título <code>Despesas de arrendamento</code>.  Depois quando chegar altura dou accesso ao Nuno Ferreira.</p>
+
+<p>Mas antes disso vou ter de preencher as outras despesas que já foram entretanto feitas, a começar sem dúvida pela despesa da mediação que é de longe a mais elevada.</p>
+
+<p>Outra coisa que também posso fazer é criar um alerta no calendário.  Lembra-me de pagar o IMI a 15 de Maio, 15 de Agosto e 15 de Novembro.</p>
+
+<p>Tags: <a href='tag_IMI.html'>IMI</a>, <a href='tag_carcavelos.html'>carcavelos</a>, <a href='tag_moradia.html'>moradia</a></p>
+<!-- text end -->
+]]></description><link>http://zonalivre/diario/imi-novembro-2023.html</link>
+<guid>http://zonalivre/diario/./imi-novembro-2023.html</guid>
+<dc:creator>João Costa</dc:creator>
+<pubDate>Fri, 24 Nov 2023 22:57:22 +0000</pubDate></item>
 <item><title>
 SEAT Tarraco
 </title><description><![CDATA[
@@ -169,26 +189,4 @@ Erica bebeu um babyccino
 <guid>http://zonalivre/diario/./erica-bebeu-um-babyccino.html</guid>
 <dc:creator>João Costa</dc:creator>
 <pubDate>Fri, 08 Apr 2022 13:38:22 +0100</pubDate></item>
-<item><title>
-Instalação de gás canalizado III
-</title><description><![CDATA[
-
-<p>Recebido outro email (7 de Abril, 2022) de pouco valor acrescentado.  Recebido de Agostinho Antunes Santos <a href="m&#x61;&#x69;&#108;&#x74;&#x6F;:a&#x67;o&#115;&#x74;&#x69;&#x6E;&#104;&#111;&#64;&#x67;&#x72;&#52;&#x2E;&#x70;&#116;">a&#x67;o&#115;&#x74;&#x69;&#x6E;&#104;&#111;&#64;&#x67;&#x72;&#52;&#x2E;&#x70;&#116;</a>,
-com cópia para Valter Manuel Gomes Simões <a href="m&#x61;&#x69;&#x6C;&#116;&#x6F;:&#x76;s&#105;&#109;&#x6F;&#101;&#115;&#64;&#103;&#114;&#x34;&#46;&#112;&#x74;">&#x76;s&#105;&#109;&#x6F;&#101;&#115;&#64;&#103;&#114;&#x34;&#46;&#112;&#x74;</a> e Alzira Galvao Sargento <a href="&#x6D;ai&#108;&#x74;&#111;:&#97;&#x73;&#x61;&#x72;&#x67;e&#x6E;&#x74;&#111;&#64;&#103;&#x72;&#52;&#46;&#112;&#116;">&#97;&#x73;&#x61;&#x72;&#x67;e&#x6E;&#x74;&#111;&#64;&#103;&#x72;&#52;&#46;&#112;&#116;</a>, com 3 anexos:</p>
-
-<ul>
-<li>Flyer publicitário</li>
-<li>Cópia de contrato</li>
-<li>Lista de comercializadoras</li>
-</ul>
-
-<p>Sobre o mais importante neste momento e que vai ditar a decisão sobre se vou avançar ou não, os custos do projeto de expansão,
-não tenho de momento qualquer pormenor adicional.  Continuo a aguardar orçamento para a obra.</p>
-
-<p>Tags: <a href='tag_carcavelos.html'>carcavelos</a>, <a href='tag_moradia.html'>moradia</a>, <a href='tag_gás.html'>gás</a></p>
-<!-- text end -->
-]]></description><link>http://zonalivre/diario/instalacao-de-gas-canalizado-iii.html</link>
-<guid>http://zonalivre/diario/./instalacao-de-gas-canalizado-iii.html</guid>
-<dc:creator>João Costa</dc:creator>
-<pubDate>Fri, 08 Apr 2022 13:23:40 +0100</pubDate></item>
 </channel></rss>
