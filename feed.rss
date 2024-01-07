@@ -2,9 +2,149 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Diário do João</title><link>http://zonalivre/diario/index.html</link>
 <description>O nome diz tudo</description><language>en</language>
-<lastBuildDate>Mon, 11 Dec 2023 12:54:34 +0000</lastBuildDate>
-<pubDate>Mon, 11 Dec 2023 12:54:34 +0000</pubDate>
+<lastBuildDate>Sun, 07 Jan 2024 11:38:17 +0000</lastBuildDate>
+<pubDate>Sun, 07 Jan 2024 11:38:17 +0000</pubDate>
 <atom:link href="http://zonalivre/diario/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Hipoteca Carcavelos
+</title><description><![CDATA[
+
+<p>Renegociar a hipoteca da casa em Carcavelos parece ser uma boa opção para melhorar o orcamento mensal, tendo em conta a potencial poupança de €235/mês.</p>
+
+<p>Ontem telefonei para o banco ctt (+35121697144) e fizeram marcaçăo para o departamento de crédito habitação me ligar amanhã (2a feira).</p>
+
+<p>Decidi não esperar, porque sinceramente tenho dúvidas de que os juros vão descer muito mais.  A situação geopolitica continua muito conturbada.  Existem uma série de riscos que a qualquer momento se podem materializar.  O mais imediato que vem à ideia é a situação no estreito de Ormuz, com ataques à navegação mercante que já se prolongam desde à umas semanas e tem um impacto direto na economia e inflação que penso ainda não propagou até ao consumidor.  Por outro lado, a baixa de inflação a que assistimos nos últimos meses vem em grande parte da baixa dos preços de energia, e se bem que por um lado é possível que essa baixa possa ter um efeito continuado em outros sectores, por outro lado, é difícil imaginar o preço da energia a descer muito mais a partir daqui, tendo em conta o efeito do problema no estreito de Ormuz ainda agora mencionado.</p>
+
+<p>Por exemplo, desde a invasão da Russia à Ucrania, a Europa passou a consumir muito mais gâs natural em forma liquida proveniente por via marítima do Qatar.  Esse gás natural passa pelos estreito de Ormuz.  O risco é óbvio e enorme.  Se os problemas com a navegação escalarem, na melhor das hipoteses esse gás vai ter de viajar pela costa de África, o que aumenta o custo.</p>
+
+<p>Enfim, estar à espera na expectativa de que as taxas de juro possam descer mais é um risco desproprocionado neste contexto.  Por exemplo ainda esta semana a leitura de inflação na Alemanha subiu de 2 e pouco % para 3 e muito.  As taxas de juro não vão descer muito mais no curto prazo neste contexto.  Mais vale fixar a hipoteca já enquanto é possível faze-lo sem custos (penso que até ao final deste ano 2024).</p>
+
+<p>Tags: <a href='tag_carcavelos.html'>carcavelos</a>, <a href='tag_hipoteca.html'>hipoteca</a></p>
+<!-- text end -->
+]]></description><link>http://zonalivre/diario/hipoteca-carcavelos.html</link>
+<guid>http://zonalivre/diario/./hipoteca-carcavelos.html</guid>
+<dc:creator>João Costa</dc:creator>
+<pubDate>Sun, 07 Jan 2024 11:38:16 +0000</pubDate></item>
+<item><title>
+Renegociar a hipoteca da casa em Carcavelos
+</title><description><![CDATA[
+
+<p>Fiz um pedido de simulação de hipoteca no banco ctt, e para um prazo fixo a 25 anos, oferece uma taxa anual nominal de 4.10%, que equivale a uma mensalidade de €749.40 + €65.47 em seguros.  Ou seja, em vez do orcamento atual no Santander de €1050/mês, gastaria apenas €815, poupança de €235/mês.</p>
+
+<p>E agora estou com vontade de bater com a cabeça na parede, porque se eu tivesse fixado a taxa quando a guerra na Ucrânia começou, e quando já era óbvio que as taxas iam subir, provavelmente tinha conseguido fixar a €500/mês, mas enfim, isso agora passou.</p>
+
+<p>Tags: <a href='tag_carcavelos.html'>carcavelos</a>, <a href='tag_hipoteca.html'>hipoteca</a></p>
+<!-- text end -->
+]]></description><link>http://zonalivre/diario/renegociar-a-hipoteca-da-casa-em-carcavelos.html</link>
+<guid>http://zonalivre/diario/./renegociar-a-hipoteca-da-casa-em-carcavelos.html</guid>
+<dc:creator>João Costa</dc:creator>
+<pubDate>Thu, 28 Dec 2023 02:32:56 +0000</pubDate></item>
+<item><title>
+Bateria do laptop em fim de vida
+</title><description><![CDATA[
+
+<p>Segundo a ferramenta de diagnóstico de problemas da BIOS do meu Dell XPS 9500, a bateria do mesmo está em fim de vida.  O que talvez explique os problemas que eu tenho encontrado a tentar carregar a mesma bateria.</p>
+
+<p>Para comprar uma bateria nova, <a href="https://www.dell.com/en-uk/shop/pfydresults/6216726?categoryId=8490&amp;sid=52">https://www.dell.com/en-uk/shop/pfydresults/6216726?categoryId=8490&amp;sid=52</a>.</p>
+
+<p>Segundo a informação em <a href="https://www.recyclenow.com/recycling-locator">https://www.recyclenow.com/recycling-locator</a>, posso reciclar a bateria no centro de reciclagem (óbvio) ou na loja Currys (que fica perto do mesmo centro de reciclagem).</p>
+
+<p>Tags: <a href='tag_dell.html'>dell</a>, <a href='tag_xps.html'>xps</a>, <a href='tag_bateria.html'>bateria</a></p>
+<!-- text end -->
+]]></description><link>http://zonalivre/diario/bateria-do-laptop-em-fim-de-vida.html</link>
+<guid>http://zonalivre/diario/./bateria-do-laptop-em-fim-de-vida.html</guid>
+<dc:creator>João Costa</dc:creator>
+<pubDate>Thu, 21 Dec 2023 02:02:23 +0000</pubDate></item>
+<item><title>
+Driver placa gráfica NVidia Linux
+</title><description><![CDATA[
+
+<p>O meu XPS-15 tem uma placa gráfica da NVidia, ie:</p>
+
+<pre><code>joao@joao-XPS-15-9500:~$ lspci | grep -i nvidi
+01:00.0 3D controller: NVIDIA Corporation TU117M [GeForce GTX 1650 Ti Mobile] (rev a1)
+</code></pre>
+
+<p>E parece-me que o driver que estou a utilizar é um genérico nouveau, em vez do específico driver da NVidia.</p>
+
+<pre><code>joao@joao-XPS-15-9500:~$ lsmod | egrep "^video "
+video                  73728  4 dell_wmi,dell_laptop,i915,nouveau
+</code></pre>
+
+<p>Para informação mais completa:</p>
+
+<pre><code>joao@joao-XPS-15-9500:~$ sudo lshw -c video
+  *-display
+       description: 3D controller
+       product: TU117M [GeForce GTX 1650 Ti Mobile]
+       vendor: NVIDIA Corporation
+       physical id: 0
+       bus info: pci@0000:01:00.0
+       version: a1
+       width: 64 bits
+       clock: 33MHz
+       capabilities: pm msi pciexpress bus_master cap_list rom
+       configuration: driver=nouveau latency=0
+       resources: irq:180 memory:b3000000-b3ffffff memory:70000000-7fffffff memory:80000000-81ffffff ioport:3000(size=128)
+  *-display
+       description: VGA compatible controller
+       product: CometLake-H GT2 [UHD Graphics]
+       vendor: Intel Corporation
+       physical id: 2
+       bus info: pci@0000:00:02.0
+       logical name: /dev/fb0
+       version: 05
+       width: 64 bits
+       clock: 33MHz
+       capabilities: pciexpress msi pm vga_controller bus_master cap_list rom fb
+       configuration: depth=32 driver=i915 latency=0 mode=3840x2400 resolution=3840,2400 visual=truecolor xres=3840 yres=2400
+       resources: iomemory:600-5ff iomemory:400-3ff irq:179 memory:604a000000-604affffff memory:4000000000-400fffffff ioport:4000(size=64) memory:c0000-dffff
+</code></pre>
+
+<p>Portanto, para a placa gráfica normal, o driver i915 parece ser apropriado, mas para o controlador 3D, <code>driver=nouveau</code> não parece ser o ideal.</p>
+
+<p>Humnn, valerá a pena fazer a alteração ?  Penso que sim.  Vamos tentar.  Uma pesquisa rápida aponta para <a href="https://askubuntu.com/questions/481414/install-nvidia-driver-instead-of-nouveau">https://askubuntu.com/questions/481414/install-nvidia-driver-instead-of-nouveau</a>.  Esse artigo é antigo, a resposta com mais votos é sobre Ubuntu 14, e eu estou a usar Ubuntu 22.</p>
+
+<p>Olhando para as outras respostas, parece que basta abriar a aplicação <code>Software &amp; Updates</code>, escolher a tab <code>Additional Drivers</code> e escolher a opção NVIDIA em vez de Nouveau, esperar que a atualização termine e reiniciar o computador.  Básico e simples.</p>
+
+<p>E depois de re-iniciar:</p>
+
+<pre><code>joao@joao-XPS-15-9500:~$ sudo lshw -c video
+  *-display
+       description: 3D controller
+       product: TU117M [GeForce GTX 1650 Ti Mobile]
+       vendor: NVIDIA Corporation
+       physical id: 0
+       bus info: pci@0000:01:00.0
+       version: a1
+       width: 64 bits
+       clock: 33MHz
+       capabilities: pm msi pciexpress bus_master cap_list rom
+       configuration: driver=nvidia latency=0
+       resources: irq:180 memory:b3000000-b3ffffff memory:70000000-7fffffff memory:80000000-81ffffff ioport:3000(size=128)
+  *-display
+       description: VGA compatible controller
+       product: CometLake-H GT2 [UHD Graphics]
+       vendor: Intel Corporation
+       physical id: 2
+       bus info: pci@0000:00:02.0
+       logical name: /dev/fb0
+       version: 05
+       width: 64 bits
+       clock: 33MHz
+       capabilities: pciexpress msi pm vga_controller bus_master cap_list rom fb
+       configuration: depth=32 driver=i915 latency=0 mode=3840x2400 resolution=3840,2400 visual=truecolor xres=3840 yres=2400
+       resources: iomemory:600-5ff iomemory:400-3ff irq:179 memory:604a000000-604affffff memory:4000000000-400fffffff ioport:4000(size=64) memory:c0000-dffff
+</code></pre>
+
+<p><code>driver=nvidia</code> aparece no driver do controlador 3D, tudo parece funcionar.</p>
+
+<p>Tags: <a href='tag_linux.html'>linux</a>, <a href='tag_nvidia.html'>nvidia</a>, <a href='tag_nouveau.html'>nouveau</a></p>
+<!-- text end -->
+]]></description><link>http://zonalivre/diario/driver-placa-grafica-nvidia-linux.html</link>
+<guid>http://zonalivre/diario/./driver-placa-grafica-nvidia-linux.html</guid>
+<dc:creator>João Costa</dc:creator>
+<pubDate>Mon, 11 Dec 2023 14:55:07 +0000</pubDate></item>
 <item><title>
 Puré de batata com queijo
 </title><description><![CDATA[
@@ -43,16 +183,16 @@ Eficácia energética na minha casa em Lichfield Avenue
 
 <p>Mas também năo ê menos verdade que mesmo passadas mais do que 2 horas, a casa continuava com uma temperatura agradável, apesar do frio que estava lá fora.  A casa dela parece-me mais confortável durante o Inverno, e penso que têm a ver com os melhoramentos que ela fez, nomeadamente isolamento no sotão e limpeza/substituição de janelas.</p>
 
-<p>Por isso está na altura de pensar em fazer o mesmo.  Para começar vou investigar opções de isolamento.  Uma boa fonte de informação está disponível em https://energysavingtrust.org.uk/energy-at-home/reducing-home-heat-loss/</p>
+<p>Por isso está na altura de pensar em fazer o mesmo.  Para começar vou investigar opções de isolamento.  Uma boa fonte de informação está disponível em <a href="https://energysavingtrust.org.uk/energy-at-home/reducing-home-heat-loss/">https://energysavingtrust.org.uk/energy-at-home/reducing-home-heat-loss/</a></p>
 
 <p>Várias ideas podem ser aproveitadas desse artigo, no entanto há duas coisas que vem imediatamente à idea, baseado no facto de que isto foram coisas que a Rebecca mandou fazer em casa dela:</p>
 
 <ul>
 <li>Isolamento no sotão
 <ul>
-<li>https://energysavingtrust.org.uk/advice/roof-and-loft-insulation/</li>
+<li><a href="https://energysavingtrust.org.uk/advice/roof-and-loft-insulation/">https://energysavingtrust.org.uk/advice/roof-and-loft-insulation/</a></li>
 </ul></li>
-<li>https://energysavingtrust.org.uk/advice/windows-and-doors/</li>
+<li><a href="https://energysavingtrust.org.uk/advice/windows-and-doors/">https://energysavingtrust.org.uk/advice/windows-and-doors/</a></li>
 </ul>
 
 <p>Para além destas, outras duas coisas vem-me à ideia:</p>
@@ -115,78 +255,4 @@ IMI Novembro 2023
 <guid>http://zonalivre/diario/./imi-novembro-2023.html</guid>
 <dc:creator>João Costa</dc:creator>
 <pubDate>Fri, 24 Nov 2023 22:57:53 +0000</pubDate></item>
-<item><title>
-SEAT Tarraco
-</title><description><![CDATA[
-
-<p>O SEAT Tarraco é o successor do SEAT Alhambra.  Pelo que li na internet, o Alhambra senta comfortavelmente 7 pessoas, enquanto que o Tarraco senta comfortavelmente 5, com mais 2 lugares adicionais que perfazem 7 no total, mas com menos comforto. </p>
-
-<p>A desvantagem do Alhambra é que saiu de produção em 2020, pelo que só é possível comprar modelos em 2a mão e sem o mesmo nível de tecnologia das versões mais recentes do Tarraco.</p>
-
-<p>A página da seat no reino unido está a anunciar financiamento a 0% até 2 Abril, 2024.  Funcionaria nos seguintes termos:</p>
-
-<ul>
-<li>Entrada inicial mínima de £3341.80</li>
-<li>35 pagamentos mensais de £438.06</li>
-<li>Pagamento final de 14741.10</li>
-</ul>
-
-<p>Tendo em conta de que no final, em princípio, o carro ainda deveria valer algumas £20000 libras, pelo que uma opção seria vende-lo e usar a diferença como depósito para um modelo novo.</p>
-
-<p>Os números acima são para o modelo mais barato, mas haverá outros extras que poderam valer a pena, como pack de inverno (assentos aquecidos, indicador nível de água, etc) e eventualmente outros que poderá valer a pena considerar.</p>
-
-<p>Em alternativa, há modelos de 2019/2020 do Alhambra por cerca de £22000 (ou mais).</p>
-
-<p>Tags: <a href='tag_carro.html'>carro</a>, <a href='tag_seat.html'>seat</a>, <a href='tag_alhambra.html'>alhambra</a>, <a href='tag_tarraco.html'>tarraco</a></p>
-<!-- text end -->
-]]></description><link>http://zonalivre/diario/seat-tarraco.html</link>
-<guid>http://zonalivre/diario/./seat-tarraco.html</guid>
-<dc:creator>João Costa</dc:creator>
-<pubDate>Fri, 24 Nov 2023 13:51:47 +0000</pubDate></item>
-<item><title>
-Assembleia Geral Grupo Sportivo Carcavelos
-</title><description><![CDATA[
-
-<p>Esta semana há assembleia geral de sócios do grupo sportivo de carcavelos.  O que me recorda que ainda não consegui pagar as quotas deste ano, apesar de múltiplos emails a solicitar pagamento por transferência bancária.</p>
-
-<p>Se calhar o melhor é tentar telefonar ?  O contato que tenho é Soraia Nadine, +351 214 570 894.</p>
-
-<p>Tags: <a href='tag_carcavelos.html'>carcavelos</a></p>
-<!-- text end -->
-]]></description><link>http://zonalivre/diario/assembleia-geral-grupo-sportivo-carcavelos.html</link>
-<guid>http://zonalivre/diario/./assembleia-geral-grupo-sportivo-carcavelos.html</guid>
-<dc:creator>João Costa</dc:creator>
-<pubDate>Mon, 20 Nov 2023 19:14:32 +0000</pubDate></item>
-<item><title>
-Continuous heart rate monitors - Polar experiment
-</title><description><![CDATA[
-
-<p>I tried wearing my polar heart rate monitor for a over 12 hours, including overnight.  It did keep track of my heart rate, and I am able to look at the chart on the Polar app on my phone.</p>
-
-<p>It is possible to export the Polar data, altough the process to do so is somewhat cumbersome.  It requires logging in to the polar account on the web and using some sort of GDPResque option they have to export data, which is possible but not great.</p>
-
-<p>But perhaps an even bigger problem is, the strap of the heart rate monitor is not built to be worn for such long periods.  After a few hours of wearing it I could feel it loosing elasticity.  I imagine after not too long, it will begin to come loose and when that happens, the accuracy of the heart rate measurements would certainly drop.</p>
-
-<p>So yeah, my existing strap is useful for monitoring heart rate during exercise, and that is precisily what it was built for, but it won't be useful as a continuous heart rate monitor for those two reasons, it's not simple to export data, and it has poor durability as a continuous heart rate monitor.</p>
-
-<p>Tags: <a href='tag_fitness.html'>fitness</a>, <a href='tag_heart-rate.html'>heart-rate</a>, <a href='tag_polar.html'>polar</a></p>
-<!-- text end -->
-]]></description><link>http://zonalivre/diario/continuous-heart-rate-monitors---polar-experiment.html</link>
-<guid>http://zonalivre/diario/./continuous-heart-rate-monitors---polar-experiment.html</guid>
-<dc:creator>João Costa</dc:creator>
-<pubDate>Mon, 20 Nov 2023 11:12:34 +0000</pubDate></item>
-<item><title>
-Continuous heart rate monitors
-</title><description><![CDATA[
-
-<p>Today I am thinking about getting a continuous heart monitor.  I am thinking about something I can use for swimming.  There seem to be two kinds, chest strap and watch based.</p>
-
-<p>But really, before I start spending money, I should just use the Polar chest strap I already have, and see how I can start storing that data somewhere.</p>
-
-<p>Tags: <a href='tag_fitness.html'>fitness</a>, <a href='tag_heart-rate.html'>heart-rate</a></p>
-<!-- text end -->
-]]></description><link>http://zonalivre/diario/continuous-heart-rate-monitors.html</link>
-<guid>http://zonalivre/diario/./continuous-heart-rate-monitors.html</guid>
-<dc:creator>João Costa</dc:creator>
-<pubDate>Mon, 06 Nov 2023 11:17:12 +0000</pubDate></item>
 </channel></rss>

@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="main.css" type="text/css" />
 <link rel="stylesheet" href="blog.css" type="text/css" />
 <link rel="alternate" type="application/rss+xml" title="Subscribe to this page..." href="feed.rss" />
-<title>Diário do João &mdash; Posts tagged "linux"</title>
+<title>Diário do João &mdash; Posts tagged "nvidia"</title>
 </head><body>
 <div id="divbodyholder">
 <div class="headerholder"><div class="header">
@@ -104,38 +104,6 @@ video                  73728  4 dell_wmi,dell_laptop,i915,nouveau
 <p><code>driver=nvidia</code> aparece no driver do controlador 3D, tudo parece funcionar.</p>
 
 <p>Tags: <a href='tag_linux.html'>linux</a>, <a href='tag_nvidia.html'>nvidia</a>, <a href='tag_nouveau.html'>nouveau</a></p>
-<!-- text end -->
-<h3><a class="ablack" href="configurar-citrix-workspace-app.html">
-Configurar Citrix Workspace App
-</a></h3>
-<!-- bashblog_timestamp: #202304181258.50# -->
-<div class="subtitle">April 18, 2023 &mdash; 
-João Costa
-</div>
-<!-- text begin -->
-
-<p>Ficheiro ~/.ICAClient/wfclient.ini</p>
-
-<pre><code>-KeyboardLayout = (User Profile)
-+KeyboardLayout = British
-</code></pre>
-
-<p>Erro "You have not chosen to trust "USERTrust RSA Certification Authority", the issuer of the server's security certificate."</p>
-
-<p>Ver detalhe em https://spawn.link/posts/2022-12-11<em>-</em>citrix_certs/, mas na essencia:</p>
-
-<pre><code>ln -s /etc/ssl/certs/USERTrust_RSA_Certification_Authority.pem /opt/Citrix/ICAClient/keystore/cacerts/USERTrust_RSA_Certification_Authority.pem
-</code></pre>
-
-<p>Usar teclas como ALT+TAB, WindowsKey, etc na sessao:</p>
-
-<p>Edita ficheiro /opt/Citrix/ICAClient/config/All_Regions.ini</p>
-
-<pre><code>[Virtual Channels\Keyboard]
-TransparentKeyPassthrough=Remote
-</code></pre>
-
-<p>Tags: <a href='tag_citrix.html'>citrix</a>, <a href='tag_linux.html'>linux</a></p>
 <!-- text end -->
 </div>
 <div id="footer">CC by-nc-nd <a href="http://zonalivre.org">João Costa</a> &mdash; <a href="mailto:joaocosta&#64;zonalivre&#46;org">joaocosta&#64;zonalivre&#46;org</a><br/>
