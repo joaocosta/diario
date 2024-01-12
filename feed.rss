@@ -2,9 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Diário do João</title><link>http://zonalivre/diario/index.html</link>
 <description>O nome diz tudo</description><language>en</language>
-<lastBuildDate>Sun, 07 Jan 2024 11:38:17 +0000</lastBuildDate>
-<pubDate>Sun, 07 Jan 2024 11:38:17 +0000</pubDate>
+<lastBuildDate>Fri, 12 Jan 2024 17:00:38 +0000</lastBuildDate>
+<pubDate>Fri, 12 Jan 2024 17:00:38 +0000</pubDate>
 <atom:link href="http://zonalivre/diario/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Numero de telefone Portugues
+</title><description><![CDATA[
+
+<p>Continua a minha aventura para obter um numero de telemovel Portugês.  Enviei o meu cartão uzo para a minha mãe e pedi-lhe para o pôr no telemóvel dela, na espectativa de que o cartão re-active em Portugal.  O prazo desse cartão termina penso que a 18 de Janeiro, pelo que se ela não receber o cartão até lá, vou ter que fazer outro carregamento uzo, ou desistir do cartão.</p>
+
+<p>Hoje, fiz um pedido de cartão eSim na vodafone.  Para meu espanto e pelo que consegui perceber pela informação disponível online, todas as operadoras que disponibilizam cartões eSim fazem-no por correio físico em vez de email.  Na vodafone, enviam o eSim gratuitamente, e tem o tarifário <code>Easy</code> sem carregamentos obrigatórios e que só obriga a fazer uma chamada de 6 em 6 meses.</p>
+
+<ul>
+<li><a href="https://www.vodafone.pt/telemoveis/esim.html#novos-clientes">https://www.vodafone.pt/telemoveis/esim.html#novos-clientes</a></li>
+<li><a href="https://www.vodafone.pt/telemoveis/tarifarios/easy.html">https://www.vodafone.pt/telemoveis/tarifarios/easy.html</a></li>
+</ul>
+
+<p><code>
+Para manter o seu número ativo basta efetuar uma comunicação não gratuita ou um carregamento de 6 em 6 meses. Adicionalmente será cobrada uma tarifa de €1,614 a cada 60 dias .
+</code></p>
+
+<p>Tags: <a href='tag_telemovel.html'>telemovel</a>, <a href='tag_portugal.html'>portugal</a>, <a href='tag_uzo.html'>uzo</a>, <a href='tag_vodafone.html'>vodafone</a>, <a href='tag_esim.html'>esim</a></p>
+<!-- text end -->
+]]></description><link>http://zonalivre/diario/numero-de-telefone-portugues.html</link>
+<guid>http://zonalivre/diario/./numero-de-telefone-portugues.html</guid>
+<dc:creator>João Costa</dc:creator>
+<pubDate>Fri, 12 Jan 2024 17:00:37 +0000</pubDate></item>
+<item><title>
+HMRC Reembolso de impostos
+</title><description><![CDATA[
+
+<p>O estado do reino unido está me a dever £859.34. Lembro-me de ter pedido um re-embolso à meses atrás, e não aconteceu nada.</p>
+
+<p>Voltei a pedir reembolso hoje, dizem que normalmente é processado em 2 semanas, ou talvez 4.  Ficou gravado com a seguinte referência:</p>
+
+<pre><code>Your reference number for this transaction is: REPO19SV8CP7 sent on 09 Jan 2024 at 11:04
+Submission ID:IVMUYRSLMYVUGK3TPBBTMRSEOJEWWQRLPAXTG23ZMFKT2
+</code></pre>
+
+<p>Tags: <a href='tag_impostos.html'>impostos</a>, <a href='tag_hmrc.html'>hmrc</a></p>
+<!-- text end -->
+]]></description><link>http://zonalivre/diario/hmrc-reembolso-de-impostos.html</link>
+<guid>http://zonalivre/diario/./hmrc-reembolso-de-impostos.html</guid>
+<dc:creator>João Costa</dc:creator>
+<pubDate>Tue, 09 Jan 2024 11:08:31 +0000</pubDate></item>
 <item><title>
 Hipoteca Carcavelos
 </title><description><![CDATA[
@@ -223,36 +264,4 @@ Big Things
 <guid>http://zonalivre/diario/./big-things.html</guid>
 <dc:creator>João Costa</dc:creator>
 <pubDate>Sun, 26 Nov 2023 17:32:48 +0000</pubDate></item>
-<item><title>
-Renovação da euribor
-</title><description><![CDATA[
-
-<p>A hipoteca da moradia está indexada à euribor 12 meses, e a última atualização foi em Dezembro do ano passado.  A 1 de Dezembro, 2022, a euribor 12 meses estava a 2.842%.  Hoje está a 4.034%.  Subiu 40%, o que sugere que o juro que eu pago vai subir 40%.</p>
-
-<p>Tags: <a href='tag_moradia.html'>moradia</a>, <a href='tag_hipoteca.html'>hipoteca</a>, <a href='tag_euribor.html'>euribor</a></p>
-<!-- text end -->
-]]></description><link>http://zonalivre/diario/renovacao-da-euribor.html</link>
-<guid>http://zonalivre/diario/./renovacao-da-euribor.html</guid>
-<dc:creator>João Costa</dc:creator>
-<pubDate>Fri, 24 Nov 2023 23:08:14 +0000</pubDate></item>
-<item><title>
-IMI Novembro 2023
-</title><description><![CDATA[
-
-<p>Quase que me esqueçia de pagar o IMI.  Lembrei-me agora por ter recebido o email com a newsletter da autoridade tributária.</p>
-
-<p>O que do ponto de vista da contabilidade me recorda que eu deveria começar a manter uma lista de despesas a abater.  Esta é uma delas, e a melhor altura para começar é mesmo agora (apesar de já ser hora de desligar o computador).</p>
-
-<p>Está feito, criei uma folha de cálculo no google docs com o título <code>Despesas de arrendamento</code>.  Depois quando chegar altura dou accesso ao Nuno Ferreira.</p>
-
-<p>Mas antes disso vou ter de preencher as outras despesas que já foram entretanto feitas, a começar sem dúvida pela despesa da mediação que é de longe a mais elevada.</p>
-
-<p>Outra coisa que também posso fazer é criar um alerta no calendário.  Lembra-me de pagar o IMI a 15 de Maio, 15 de Agosto e 15 de Novembro.</p>
-
-<p>Tags: <a href='tag_IMI.html'>IMI</a>, <a href='tag_carcavelos.html'>carcavelos</a>, <a href='tag_moradia.html'>moradia</a></p>
-<!-- text end -->
-]]></description><link>http://zonalivre/diario/imi-novembro-2023.html</link>
-<guid>http://zonalivre/diario/./imi-novembro-2023.html</guid>
-<dc:creator>João Costa</dc:creator>
-<pubDate>Fri, 24 Nov 2023 22:57:53 +0000</pubDate></item>
 </channel></rss>
